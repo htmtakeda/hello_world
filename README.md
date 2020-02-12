@@ -3,3 +3,4 @@
 
 ## Links
 [マンガでわかるGit](https://next.rikunabi.com/journal/20161209_t12_iq/)
+[Twitter@webdesignManga](https://twitter.com/webdesignManga)
